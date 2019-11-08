@@ -1,6 +1,6 @@
 # Spring Boot Rest API
 This is using a Musician as a usage example.
-Where a Musician store the following details
+Where a Musician stores the following details
 ```
     private Long id;
     private String firstName, lastName, instrument;
